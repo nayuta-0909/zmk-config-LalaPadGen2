@@ -79,7 +79,7 @@
             display-name = "secondary_layer";
             bindings = <
 &kp EXCLAMATION   &kp AT             &kp HASH  &kp DLLR   &kp PERCENT                   &kp CARET         &kp AMPS           &kp ASTRK        &kp LPAR         &kp RPAR
-&kp NUMBER_6      &kp N7             &kp N8    &kp COLON  &kp MINUS                     &kp PLUS          &kp DOUBLE_QUOTES  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp KP_MINUS
+&kp LT            &kp N7             &kp N8    &kp COLON  &kp MINUS                     &kp PLUS          &kp DOUBLE_QUOTES  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp KP_MINUS
 &kp F6            &kp F7             &kp F8    &kp F9     &kp F10                       &kp LEFT_BRACE    &kp RBRC           &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp KP_ASTERISK
 &trans            &trans             &trans    &trans     &trans       &trans  &kp DEL  &trans            &trans             &kp KP_NUMBER_0  &kp KP_DOT       &kp KP_DIVIDE
                   &trans             &trans    &trans     &trans       &trans  &trans   &trans            &trans             &trans           &trans
