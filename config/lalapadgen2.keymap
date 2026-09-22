@@ -48,12 +48,12 @@
     combos {
         compatible = "zmk,combos";
 
-        L-TAB {
+        combo_l_tab {
             bindings = <&kp TAB>;
             key-positions = <10 11>;
         };
 
-        R-scrennshot {
+        combo_r_screenshot {
             bindings = <&kp PRINTSCREEN>;
             key-positions = <16 17>;
         };
